@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "150281058888",
+    "project_id": "my-application-mealer",
+    "storage_bucket": "my-application-mealer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150281058888:android:27a72b916232962ee8b67d",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationmealer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150281058888-nn4bd6cs46q0bmfbgkonffrqu8qk3the.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplicationmealer",
+            "certificate_hash": "7c7524dd26883a7a53c17db0f32c02c627d4d6fb"
+          }
+        },
+        {
+          "client_id": "150281058888-ac5vkqitql4lcss5832tu3bjp1ehf3rd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK3-UVXwuH68qPaJQp0T9LGTI7qEyWGkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150281058888-ac5vkqitql4lcss5832tu3bjp1ehf3rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
